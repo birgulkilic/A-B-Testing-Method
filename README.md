@@ -1,4 +1,4 @@
-# A-B-Testing-Method
+# A/B Testing-Method
 
 A/B Testing Method¶
 A/B testing is a method where two versions (A and B) are compared. This test helps find out which version works better. For example, two different designs of a webpage are tested to see which one gets more conversions.
